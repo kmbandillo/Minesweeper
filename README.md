@@ -1,4 +1,4 @@
-# Terminal Minesweeper
+# Minesweeper
 
 A classic command-line Minesweeper game implemented in Python with ASCII art interfaces.
 
